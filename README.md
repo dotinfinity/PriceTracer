@@ -1,0 +1,2 @@
+# PriceTracer
+Trace everyday spendings
